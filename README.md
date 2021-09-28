@@ -1,76 +1,47 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+## React To Do List ##
 
-> One paragraph statement about the project.
+> Consolidate your knowledge about React, components, props, state, and hooks, with this project building a Do To List App.
 
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
+
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- HTML, CSS, JS
+- Linterns, Gitflow
+- React, Webpack
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
+You will need an up to date browser to render this website. Also npm to run terminal commands.
 
-### Setup
+### Setup and Install
+Get a local copy up and running using git clone https://github.com/herokudev/react-todo-list.git, next we install dependencies with 'npm install'
 
-### Install
 
 ### Usage
-
-### Run tests
-
-### Deployment
+To test the app locally, download source code, install dependencies and excute 'npm start' command.
 
 
+## Authors (Github: Herokudev)
+Herbert Orellana
 
-## Authors
+- GitHub: [@herokudev](https://github.com/herokudev)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/armando-orellana-a0b50b34)
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
+Show your support
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+## 📝 License 
+This project is MIT licensed.
